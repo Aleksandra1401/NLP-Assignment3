@@ -6,8 +6,10 @@
 Question 1:  
 Demonstrates embedding generation using FastText model on Post_law data. Saves the model for potenttial use in future.  
   
-Question 2:
-Demonstrates finding similar questions using pretrained fastText model embeddings and Pytorch NN designed from scratch. 
+Question 2:  
+Demonstrates finding similar questions using pretrained fastText model embeddings and Pytorch NN designed from scratch.  
+  
+**Note:** to obtain the model necessary for question 2, and understand fastText embeddings, peek at the Quesiton1.ipynb before running Question2.ipynb.  
 
 Files:  
 Question1.ipynb                       - question 1 notebook  
